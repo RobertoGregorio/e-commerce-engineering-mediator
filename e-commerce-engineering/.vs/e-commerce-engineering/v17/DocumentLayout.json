@@ -3,94 +3,90 @@
   "WorkspaceRootPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{65ED99EC-F5F2-48F9-ADC7-D7B39E5F4DB1}|docker{65ED99EC-F5F2-48F9-ADC7-D7B39E5F4DB1}|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65ED99EC-F5F2-48F9-ADC7-D7B39E5F4DB1}|docker{65ED99EC-F5F2-48F9-ADC7-D7B39E5F4DB1}|solutionrelative:compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7A6EE5A6-1F5E-42F1-A5EC-4708A9D5FC4B}|e-commerce{7A6EE5A6-1F5E-42F1-A5EC-4708A9D5FC4B}|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{7A6EE5A6-1F5E-42F1-A5EC-4708A9D5FC4B}|e-commerce{7A6EE5A6-1F5E-42F1-A5EC-4708A9D5FC4B}|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F4CF80-7F17-4DF8-9DD2-1C6DEEF9267D}|e-commerce-engineering\\e-commerce-engineering.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F4CF80-7F17-4DF8-9DD2-1C6DEEF9267D}|e-commerce-engineering\\e-commerce-engineering.csproj|solutionrelative:e-commerce-engineering\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\enumerables\\admistratortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\enumerables\\admistratortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}|src{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}|src{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}|solutionrelative:compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{65ED99EC-F5F2-48F9-ADC7-D7B39E5F4DB1}|NewFolder1{65ED99EC-F5F2-48F9-ADC7-D7B39E5F4DB1}|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\containers\\compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{65ED99EC-F5F2-48F9-ADC7-D7B39E5F4DB1}|NewFolder1{65ED99EC-F5F2-48F9-ADC7-D7B39E5F4DB1}|solutionrelative:containers\\compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}|src{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}|src{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D5F4CF80-7F17-4DF8-9DD2-1C6DEEF9267D}|e-commerce-engineering\\e-commerce-engineering.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5F4CF80-7F17-4DF8-9DD2-1C6DEEF9267D}|e-commerce-engineering\\e-commerce-engineering.csproj|solutionrelative:e-commerce-engineering\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\paymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12CE116F-09DE-4530-9FBA-DAB1B4A1FEF8}|e-commerce-enginerring.application\\e.commerce.engineering.application.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e.commerce.engineering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{12CE116F-09DE-4530-9FBA-DAB1B4A1FEF8}|e-commerce-enginerring.application\\e.commerce.engineering.application.csproj|solutionrelative:e-commerce-enginerring.application\\e.commerce.engineering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\mediator\\e-commerce-engineering\\gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\useraggregates\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\useraggregates\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\seedwork\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\seedwork\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\useraggregates\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\useraggregates\\useraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\useraggregates\\userpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\useraggregates\\userpaymentmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\productaggregates\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\productaggregates\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\aggregates\\productaggregates\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B887610-E22B-464B-856F-82E381A19D0E}|e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj|solutionrelative:e-commerce-engineering.domain\\aggregates\\productaggregates\\productcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AE4654C5-DF4B-4098-8358-B967A884682A}|e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{AE4654C5-DF4B-4098-8358-B967A884682A}|e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj|solutionrelative:e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D5F4CF80-7F17-4DF8-9DD2-1C6DEEF9267D}|e-commerce-engineering\\e.commerce.engineering.web.csproj|c:\\users\\rober\\desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\e.commerce.engineering.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D5F4CF80-7F17-4DF8-9DD2-1C6DEEF9267D}|e-commerce-engineering\\e.commerce.engineering.web.csproj|solutionrelative:e-commerce-engineering\\e.commerce.engineering.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\mediator\\e-commerce-engineering\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Enumerables\\AdmistratorType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Enumerables\\AdmistratorType.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\PaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\PaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering\\Controllers\\ProductController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\Buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\Buy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\Address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e.commerce.engineering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-enginerring.application\\e.commerce.engineering.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\Administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\Administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\SeedWork\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\SeedWork\\BaseEntity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\UserAggregates\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\UserAggregates\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\UserAggregates\\UserAddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\UserAggregates\\UserAddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\UserAggregates\\UserPaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\UserAggregates\\UserPaymentMethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\ProductAggregates\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\ProductAggregates\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\ProductAggregates\\ProductContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering.domain\\Aggregates\\ProductAggregates\\ProductContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\e.commerce.engineering.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:e-commerce-engineering\\e.commerce.engineering.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -100,37 +96,24 @@
       "DocumentGroups": [
         {
           "DockedHeight": 380,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "compose.yml",
-              "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\containers\\compose.yml",
-              "RelativeDocumentMoniker": "containers\\compose.yml",
-              "ToolTip": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\containers\\compose.yml",
-              "RelativeToolTip": "containers\\compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-02-24T22:48:21.483Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "compose.yml",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\compose.yml",
               "RelativeDocumentMoniker": "compose.yml",
               "ToolTip": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\compose.yml",
               "RelativeToolTip": "compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-02-24T22:32:12.276Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\Program.cs",
               "RelativeDocumentMoniker": "e-commerce-engineering\\Program.cs",
@@ -138,12 +121,11 @@
               "RelativeToolTip": "e-commerce-engineering\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T22:30:07.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T22:30:07.757Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "AdmistratorType.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Enumerables\\AdmistratorType.cs",
               "RelativeDocumentMoniker": "e-commerce-engineering.domain\\Enumerables\\AdmistratorType.cs",
@@ -151,12 +133,11 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Enumerables\\AdmistratorType.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T22:25:35.394Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T22:25:35.394Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "PaymentMethod.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\PaymentMethod.cs",
               "RelativeDocumentMoniker": "e-commerce-engineering.domain\\Aggregates\\PaymentMethod.cs",
@@ -164,12 +145,11 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\PaymentMethod.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:10:00.273Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:10:00.273Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "dockerfile",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\dockerfile",
               "RelativeDocumentMoniker": "dockerfile",
@@ -177,12 +157,11 @@
               "RelativeToolTip": "dockerfile",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-23T17:31:46.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:31:46.756Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "e-commerce-engineering\\Controllers\\ProductController.cs",
@@ -190,8 +169,7 @@
               "RelativeToolTip": "e-commerce-engineering\\Controllers\\ProductController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:40:38.522Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:40:38.522Z"
             },
             {
               "$type": "Document",
@@ -203,8 +181,7 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\Buy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:10:00.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:10:00.316Z"
             },
             {
               "$type": "Document",
@@ -216,12 +193,11 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:10:00.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:10:00.232Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -229,25 +205,23 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAAA0BAAAAAAAAAAAAAI4BAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-24T22:01:15.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T22:01:15.572Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "e-commerce-enginerring.application.csproj",
+              "Title": "e.commerce.engineering.application.csproj",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e.commerce.engineering.application.csproj",
               "RelativeDocumentMoniker": "e-commerce-enginerring.application\\e.commerce.engineering.application.csproj",
               "ToolTip": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e.commerce.engineering.application.csproj",
               "RelativeToolTip": "e-commerce-enginerring.application\\e.commerce.engineering.application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-23T17:09:58.542Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:09:58.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "Administrator.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\Administrator.cs",
               "RelativeDocumentMoniker": "e-commerce-engineering.domain\\Aggregates\\Administrator.cs",
@@ -255,25 +229,23 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\Administrator.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-24T21:59:19.139Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-24T21:59:19.139Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "e-commerce-engineering.domain.csproj",
+              "DocumentIndex": 13,
+              "Title": "e.commerce.engineering.domain.csproj",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj",
               "RelativeDocumentMoniker": "e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj",
               "ToolTip": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj",
               "RelativeToolTip": "e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-23T17:09:58.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:09:58.581Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\SeedWork\\BaseEntity.cs",
               "RelativeDocumentMoniker": "e-commerce-engineering.domain\\SeedWork\\BaseEntity.cs",
@@ -281,12 +253,11 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\SeedWork\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:10:00.363Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:10:00.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "gitignore",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\mediator\\e-commerce-engineering\\gitignore",
               "RelativeDocumentMoniker": "..\\..\\mediator\\e-commerce-engineering\\gitignore",
@@ -297,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\Aggregates\\UserAggregates\\User.cs",
               "RelativeDocumentMoniker": "e-commerce-engineering.domain\\Aggregates\\UserAggregates\\User.cs",
@@ -305,12 +276,11 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\UserAggregates\\User.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:10:00.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:10:00.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 4,
               "Title": "docker-compose.yml",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\mediator\\e-commerce-engineering\\docker-compose.yml",
               "RelativeDocumentMoniker": "..\\..\\mediator\\e-commerce-engineering\\docker-compose.yml",
@@ -329,8 +299,7 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\UserAggregates\\UserAddress.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:10:00.188Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:10:00.188Z"
             },
             {
               "$type": "Document",
@@ -342,8 +311,7 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\UserAggregates\\UserPaymentMethod.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:10:00.142Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:10:00.142Z"
             },
             {
               "$type": "Document",
@@ -355,8 +323,7 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\ProductAggregates\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:10:00.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:10:00.094Z"
             },
             {
               "$type": "Document",
@@ -368,34 +335,31 @@
               "RelativeToolTip": "e-commerce-engineering.domain\\Aggregates\\ProductAggregates\\ProductContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-23T17:09:58.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:09:58.949Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "e-commerce-egineering.infrastructure.csproj",
+              "Title": "e.commerce.engineering.infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj",
               "RelativeDocumentMoniker": "e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj",
               "ToolTip": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj",
               "RelativeToolTip": "e-commerce-egineering.infrastructure\\e.commerce.engineering.infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-23T17:09:58.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:09:58.502Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "e-commerce-engineering.csproj",
+              "Title": "e.commerce.engineering.web.csproj",
               "DocumentMoniker": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\e.commerce.engineering.web.csproj",
               "RelativeDocumentMoniker": "e-commerce-engineering\\e.commerce.engineering.web.csproj",
               "ToolTip": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\e.commerce.engineering.web.csproj",
               "RelativeToolTip": "e-commerce-engineering\\e.commerce.engineering.web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-23T17:09:57.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-23T17:09:57.803Z"
             }
           ]
         }
