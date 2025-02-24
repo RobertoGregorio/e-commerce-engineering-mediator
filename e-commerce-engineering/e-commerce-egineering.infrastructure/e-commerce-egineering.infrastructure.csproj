@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>e_commerce_egineering.infrastructure</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Data\Context\**" />
+    <EmbeddedResource Remove="Data\Context\**" />
+    <None Remove="Data\Context\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Data\EntityConfigurations\" />
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Data\Repositorys\" />
+    <Folder Include="Extensions\" />
+  </ItemGroup>
+
+</Project>

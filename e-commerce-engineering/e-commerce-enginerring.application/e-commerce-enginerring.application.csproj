@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>e_commerce_enginerring.application</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="Contracts\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Interfaces\Services\" />
+    <Folder Include="CQRS\" />
+    <Folder Include="Services\" />
+  </ItemGroup>
+
+</Project>
