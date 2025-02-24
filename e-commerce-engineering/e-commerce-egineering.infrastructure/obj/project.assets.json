@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\e-commerce-egineering.infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\e-commerce-engineering\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\e-commerce-egineering.infrastructure.csproj",
       "projectName": "e-commerce-egineering.infrastructure",
-      "projectPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\e-commerce-egineering.infrastructure.csproj",
+      "projectPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\e-commerce-egineering.infrastructure.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\obj\\",
+      "outputPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering\\e-commerce-engineering\\e-commerce-egineering.infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
