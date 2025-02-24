@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj",
-      "projectName": "e-commerce-engineering.domain",
-      "projectPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\e-commerce-engineering.domain.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj",
+      "projectName": "e.commerce.engineering.domain",
+      "projectPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\e.commerce.engineering.domain.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering.domain\\obj\\",
       "projectStyle": "PackageReference",

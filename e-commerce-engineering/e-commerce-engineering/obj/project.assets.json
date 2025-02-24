@@ -453,9 +453,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\e-commerce-engineering.csproj",
-      "projectName": "e-commerce-engineering",
-      "projectPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\e-commerce-engineering.csproj",
+      "projectUniqueName": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\e.commerce.engineering.web.csproj",
+      "projectName": "e.commerce.engineering.web",
+      "projectPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\e.commerce.engineering.web.csproj",
       "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-engineering\\obj\\",
       "projectStyle": "PackageReference",

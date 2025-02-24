@@ -1,6 +1,6 @@
-﻿using e_commerce_engineering.domain.SeedWork;
+﻿using e.commerce.engineering.domain.SeedWork;
 
-namespace e_commerce_engineering.domain.Aggregates;
+namespace e.commerce.engineering.domain.Aggregates;
 
 public class Buy : BaseEntity
 {

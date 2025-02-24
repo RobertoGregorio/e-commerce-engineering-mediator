@@ -11,7 +11,12 @@
     <Folder Include="Contracts\" />
     <Folder Include="Dtos\" />
     <Folder Include="Interfaces\Services\" />
+    <Folder Include="Interfaces\Services\" />
     <Folder Include="CQRS\" />
+    <Folder Include="Contracts\" />
+    <Folder Include="CQRS\" />
+    <Folder Include="Dtos\" />
+    <Folder Include="Services\" />
     <Folder Include="Services\" />
   </ItemGroup>
 

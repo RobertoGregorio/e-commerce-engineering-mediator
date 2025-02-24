@@ -1,4 +1,4 @@
-﻿namespace e_commerce_engineering.domain.Aggregates;
+﻿namespace e.commerce.engineering.domain.Aggregates;
 
 public class Address
 {

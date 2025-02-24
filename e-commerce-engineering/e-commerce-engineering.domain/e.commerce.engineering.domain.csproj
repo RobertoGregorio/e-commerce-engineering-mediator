@@ -9,6 +9,7 @@
 
 	<ItemGroup>
 		<Folder Include="Repositorys\" />
+		<Folder Include="Repositorys\" />
 	</ItemGroup>
 
 

@@ -1,6 +1,6 @@
-﻿using e_commerce_engineering.domain.Enumerables;
+﻿using e.commerce.engineering.domain.Enumerables;
 
-namespace e_commerce_engineering.domain.Aggregates;
+namespace e.commerce.engineering.domain.Aggregates;
 
 public class PaymentMethod
 {

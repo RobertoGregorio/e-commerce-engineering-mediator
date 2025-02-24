@@ -1,4 +1,4 @@
-﻿namespace e_commerce_engineering.domain.SeedWork
+﻿namespace e.commerce.engineering.domain.SeedWork
 {
     public class BaseEntity
     {

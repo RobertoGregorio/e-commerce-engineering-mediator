@@ -1,4 +1,4 @@
-﻿namespace e_commerce_engineering.domain.Enumerables
+﻿namespace e.commerce.engineering.domain.Enumerables
 {
     public enum CardCompanyType
     {

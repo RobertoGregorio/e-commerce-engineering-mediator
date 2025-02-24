@@ -8,15 +8,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Compile Remove="Data\Context\**" />
-    <EmbeddedResource Remove="Data\Context\**" />
-    <None Remove="Data\Context\**" />
-  </ItemGroup>
-
-  <ItemGroup>
     <Folder Include="Data\EntityConfigurations\" />
     <Folder Include="Data\Migrations\" />
+    <Folder Include="Data\Migrations\" />
+    <Folder Include="Data\EntityConfigurations\" />
+    <Folder Include="Data\Context\" />
     <Folder Include="Data\Repositorys\" />
+    <Folder Include="Data\Repositorys\" />
+    <Folder Include="Extensions\" />
     <Folder Include="Extensions\" />
   </ItemGroup>
 

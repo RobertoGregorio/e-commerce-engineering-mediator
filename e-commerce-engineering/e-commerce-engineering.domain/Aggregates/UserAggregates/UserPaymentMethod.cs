@@ -1,4 +1,4 @@
-﻿namespace e_commerce_engineering.domain.Aggregates.UserAggregates;
+﻿namespace e.commerce.engineering.domain.Aggregates.UserAggregates;
 
 public class UserPaymentMethod
 {

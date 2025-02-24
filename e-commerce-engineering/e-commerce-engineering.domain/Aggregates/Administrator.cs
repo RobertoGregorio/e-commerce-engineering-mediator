@@ -1,9 +1,11 @@
-﻿namespace e_commerce_engineering.domain
+﻿using e.commerce.engineering.domain.Enumerables;
+
+namespace e.commerce.engineering.domain
 {
     internal class Administrator
     {
         public int AdministratorId { get; set; }
         public int UserId { get; set; }
-        public int AdmistratorType { get; set; }
+        public AdmistratorType AdmistratorType { get; set; }
     }
 }

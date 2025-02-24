@@ -1,6 +1,6 @@
-﻿using e_commerce_engineering.domain.SeedWork;
+﻿using e.commerce.engineering.domain.SeedWork;
 
-namespace e_commerce_engineering.domain.Aggregates.ProductAggregates;
+namespace e.commerce.engineering.domain.Aggregates.ProductAggregates;
 
 public class Product : BaseEntity
 {
