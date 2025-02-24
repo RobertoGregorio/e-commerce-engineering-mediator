@@ -7,9 +7,9 @@
     <Nullable>disable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="DomainEvents\" />
-    <Folder Include="Repositorys\" />
-  </ItemGroup>
+	<ItemGroup>
+		<Folder Include="Repositorys\" />
+	</ItemGroup>
+
 
 </Project>

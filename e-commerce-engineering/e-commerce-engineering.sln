@@ -19,7 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "e-commerce", "e-commerce", 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{63102CCE-8190-4A1C-B3D2-CE6A61E836A3}"
 	ProjectSection(SolutionItems) = preProject
-		gitignore = gitignore
+		.gitignore = .gitignore
 	EndProjectSection
 EndProject
 Global
