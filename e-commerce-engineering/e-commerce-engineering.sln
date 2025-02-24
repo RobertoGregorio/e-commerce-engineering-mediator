@@ -13,7 +13,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e-commerce-egineering.infra
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "e-commerce", "e-commerce", "{7A6EE5A6-1F5E-42F1-A5EC-4708A9D5FC4B}"
 	ProjectSection(SolutionItems) = preProject
-		docker-compose.yml = docker-compose.yml
 		dockerfile = dockerfile
 	EndProjectSection
 EndProject

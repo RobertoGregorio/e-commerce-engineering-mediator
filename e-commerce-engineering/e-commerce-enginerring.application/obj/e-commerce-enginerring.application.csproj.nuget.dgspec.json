@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rober\\Documents\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e-commerce-enginerring.application.csproj": {}
+    "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e-commerce-enginerring.application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rober\\Documents\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e-commerce-enginerring.application.csproj": {
+    "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e-commerce-enginerring.application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rober\\Documents\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e-commerce-enginerring.application.csproj",
+        "projectUniqueName": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e-commerce-enginerring.application.csproj",
         "projectName": "e-commerce-enginerring.application",
-        "projectPath": "C:\\Users\\rober\\Documents\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e-commerce-enginerring.application.csproj",
+        "projectPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\e-commerce-enginerring.application.csproj",
         "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rober\\Documents\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\obj\\",
+        "outputPath": "C:\\Users\\rober\\Desktop\\e-commerce-engineering-mediator\\e-commerce-engineering\\e-commerce-enginerring.application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
