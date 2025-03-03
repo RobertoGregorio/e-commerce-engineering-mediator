@@ -12,11 +12,26 @@
     <Folder Include="Data\Migrations\" />
     <Folder Include="Data\Migrations\" />
     <Folder Include="Data\EntityConfigurations\" />
-    <Folder Include="Data\Context\" />
     <Folder Include="Data\Repositorys\" />
     <Folder Include="Data\Repositorys\" />
     <Folder Include="Extensions\" />
     <Folder Include="Extensions\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="8.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="8.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\e.commerce.engineering.domain\e.commerce.engineering.domain.csproj" />
   </ItemGroup>
 
 </Project>
