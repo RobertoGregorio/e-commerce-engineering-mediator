@@ -14,7 +14,8 @@ namespace e.commerce.egineering.infrastructure.Data
 
         public DbConnection GetConnection()
         {
-            current_dbConnection ??= current_dbConnection = new MySqlConnection(connectionString: configuration.GetConnectionString("DefaultConnection"));
+            var connectionString = configuration.GetConnectionString("DefaultConnection");
+            current_dbConnection ??= new MySqlConnection(connectionString);
 
             if (current_dbConnection.State is not ConnectionState.Open)
                 current_dbConnection.Open();

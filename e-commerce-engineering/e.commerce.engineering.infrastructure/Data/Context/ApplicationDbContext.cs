@@ -2,9 +2,8 @@
 using e.commerce.engineering.domain.Aggregates.UserAggregates;
 using e_commerce_engineering.domain.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Metadata.Conventions;
 using Microsoft.Extensions.Logging;
-using System.Data.Common;
-using System.Reflection.Metadata;
 
 namespace e.commerce.egineering.infrastructure.Data.Context
 {
@@ -21,7 +20,7 @@ namespace e.commerce.egineering.infrastructure.Data.Context
             optionsBuilder
                 .UseMySql(connection: dbconnection,
                           serverVersion: new MySqlServerVersion(dbconnection.ServerVersion))
-               // .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking)
+                // .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking)
                 .LogTo(Console.WriteLine, LogLevel.Information)
                 .LogTo(Console.WriteLine, LogLevel.Error);
 
@@ -34,5 +33,12 @@ namespace e.commerce.egineering.infrastructure.Data.Context
 
             base.OnModelCreating(modelBuilder);
         }
+
+        protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
+        {
+            configurationBuilder.Conventions.Remove(typeof(ForeignKeyIndexConvention));
+        }
+
+        private SetTables()
     }
 }
