@@ -2,16 +2,14 @@
 
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
-    <RootNamespace>e_commerce_egineering.infrastructure</RootNamespace>
+    <RootNamespace>e.commerce.egineering.infrastructure</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
-    <Nullable>enable</Nullable>
+    <Nullable>disable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Data\EntityConfigurations\" />
     <Folder Include="Data\Migrations\" />
     <Folder Include="Data\Migrations\" />
-    <Folder Include="Data\EntityConfigurations\" />
     <Folder Include="Extensions\" />
     <Folder Include="Extensions\" />
   </ItemGroup>

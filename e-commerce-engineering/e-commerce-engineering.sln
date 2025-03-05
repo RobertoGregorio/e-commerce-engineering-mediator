@@ -26,7 +26,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e.commerce.engineering.web"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e.commerce.engineering.application", "e.commerce.enginerring.application\e.commerce.engineering.application.csproj", "{5A298246-5BE4-4FC3-A53A-2C10564EE7C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e.commerc.engineering.crosscutting", "e.commerc.engineering.crosscutting\e.commerc.engineering.crosscutting.csproj", "{671349AF-7738-4B5C-ADBE-0F05F80B586E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "e.commerce.engineering.crosscutting", "e.commerc.engineering.crosscutting\e.commerce.engineering.crosscutting.csproj", "{671349AF-7738-4B5C-ADBE-0F05F80B586E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -4,13 +4,13 @@ using MySqlConnector;
 using System.Data;
 using System.Data.Common;
 
-namespace e_commerce_egineering.infrastructure.Data
+namespace e.commerce.egineering.infrastructure.Data
 {
     public class DbConnectionManager(IConfiguration configuration) : IDbConnectionManager
     {
         private readonly IConfiguration configuration = configuration;
 
-        private DbConnection? current_dbConnection;
+        private MySqlConnection current_dbConnection;
 
         public DbConnection GetConnection()
         {

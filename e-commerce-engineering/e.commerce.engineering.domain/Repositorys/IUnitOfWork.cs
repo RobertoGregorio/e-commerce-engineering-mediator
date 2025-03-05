@@ -1,7 +1,8 @@
-﻿namespace e_commerce_engineering.domain.Repositorys
+﻿namespace e.commerce.engineering.domain.Repositorys
 {
     public interface IUnitOfWork
     {
+
         public void Commit();
         public void CommitAsync();
     }

@@ -1,12 +1,13 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using e.commerce.engineering.domain.Repositorys;
+using Microsoft.AspNetCore.Mvc;
 
 namespace e.commerce.engineering.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class ProductController : ControllerBase
+    public class ProductController(IUnitOfWork unitOfWork) : ControllerBase
     {
-        public ProductController() { }
+        private readonly IUnitOfWork unitOfWork = unitOfWork;
 
         public IActionResult Get()
         {
