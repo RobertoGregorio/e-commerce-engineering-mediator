@@ -1,10 +1,14 @@
-﻿namespace e_commerce_egineering.infrastructure.Data.Context
+﻿using e_commerce_engineering.domain.Repositorys;
+
+namespace e_commerce_egineering.infrastructure.Data.Context
 {
-    internal class UnitOfWork : IUnitOfWork
+    public class UnitOfWork(ApplicationDbContext applicationDbContext) : IUnitOfWork
     {
-        public UnitOfWork(ApplicationDbContext applicationDbContext)
-        {
-            ApplicationDbContext = applicationDbContext;
-        }
+        public readonly ApplicationDbContext applicationDbContext = applicationDbContext;
+
+        public void Commit() => applicationDbContext.SaveChanges();
+
+        public async void CommitAsync() => await applicationDbContext.SaveChangesAsync();
+
     }
 }

@@ -21,6 +21,7 @@ namespace e_commerce_egineering.infrastructure.Data.Context
             optionsBuilder
                 .UseMySql(connection: dbconnection,
                           serverVersion: new MySqlServerVersion(dbconnection.ServerVersion))
+               // .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking)
                 .LogTo(Console.WriteLine, LogLevel.Information)
                 .LogTo(Console.WriteLine, LogLevel.Error);
 
