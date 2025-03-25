@@ -1,6 +1,8 @@
-﻿namespace e.commerce.engineering.domain.Aggregates.UserAggregates;
+﻿using e.commerce.engineering.domain.SeedWork;
 
-public class UserAddress
+namespace e.commerce.engineering.domain.Aggregates.UserAggregates;
+
+public class UserAddress : BaseEntity
 {
     public int UserAddressId { get; set; }
     public int AddressId { get; set; }

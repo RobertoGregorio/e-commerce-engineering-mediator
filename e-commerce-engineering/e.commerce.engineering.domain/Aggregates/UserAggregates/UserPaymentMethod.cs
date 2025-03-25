@@ -1,6 +1,8 @@
-﻿namespace e.commerce.engineering.domain.Aggregates.UserAggregates;
+﻿using e.commerce.engineering.domain.SeedWork;
 
-public class UserPaymentMethod
+namespace e.commerce.engineering.domain.Aggregates.UserAggregates;
+
+public class UserPaymentMethod : BaseEntity
 {
     public int UserPaymentMethodId { get; set; }
     public int UserId { get; set; }

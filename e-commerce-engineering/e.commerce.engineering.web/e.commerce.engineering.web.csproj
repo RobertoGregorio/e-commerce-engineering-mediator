@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\e.commerc.engineering.crosscutting\e.commerce.engineering.crosscutting.csproj" />
+    <ProjectReference Include="..\e.commerce.enginerring.application\e.commerce.engineering.application.csproj" />
   </ItemGroup>
 
 </Project>

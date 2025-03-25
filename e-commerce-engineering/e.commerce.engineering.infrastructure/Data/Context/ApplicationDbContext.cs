@@ -7,31 +7,41 @@ using Microsoft.Extensions.Logging;
 
 namespace e.commerce.egineering.infrastructure.Data.Context
 {
-    public class ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IDbConnectionManager dbConnectionManager) : DbContext(options)
+    public class ApplicationDbContext : DbContext
     {
-        private readonly IDbConnectionManager dbConnectionManager = dbConnectionManager;
+        private readonly IDbConnectionManager dbConnectionManager;
 
         public DbSet<User> Users { get; set; }
 
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)  : base(options) { }
+
+        public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options, IDbConnectionManager dbConnectionManager) : base(options)
+        {
+            this.dbConnectionManager = dbConnectionManager;
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            var dbconnection = dbConnectionManager.GetConnection();
 
-            optionsBuilder
-                .UseMySql(connection: dbconnection,
-                          serverVersion: new MySqlServerVersion(dbconnection.ServerVersion))
-                // .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking)
-                .LogTo(Console.WriteLine, LogLevel.Information)
-                .LogTo(Console.WriteLine, LogLevel.Error);
+            if (!optionsBuilder.IsConfigured)
+            {
+                var dbconnection = dbConnectionManager.GetConnection();
 
-            base.OnConfiguring(optionsBuilder);
+                optionsBuilder
+                    .UseMySql(connection: dbconnection,
+                              serverVersion: new MySqlServerVersion(dbconnection.ServerVersion))
+                    .UseQueryTrackingBehavior(QueryTrackingBehavior.NoTracking)
+                    .LogTo(Console.WriteLine, LogLevel.Information)
+                    .LogTo(Console.WriteLine, LogLevel.Error);
+            }
+           
+
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             new UserEntityTypeConfiguration().Configure(builder: modelBuilder.Entity<User>());
 
-            base.OnModelCreating(modelBuilder);
         }
 
         protected override void ConfigureConventions(ModelConfigurationBuilder configurationBuilder)
@@ -39,6 +49,5 @@ namespace e.commerce.egineering.infrastructure.Data.Context
             configurationBuilder.Conventions.Remove(typeof(ForeignKeyIndexConvention));
         }
 
-        private SetTables()
     }
 }

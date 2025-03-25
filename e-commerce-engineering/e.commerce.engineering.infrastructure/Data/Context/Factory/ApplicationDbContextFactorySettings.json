@@ -1,0 +1,5 @@
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=localhost;Port=3306;Database=dev_teste;Uid=root;Pwd=root;AllowUserVariables=True;UseAffectedRows=False;"
+  }
+}
